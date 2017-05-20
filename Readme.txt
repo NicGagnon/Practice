@@ -1,2 +1,2 @@
-Here's a short list of the games I've copied so far:
+Here's a short list of the games I've made so far:
 - TicTacToe
