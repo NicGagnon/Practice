@@ -1,2 +1,7 @@
-Here's a short list of the games I've made so far:
+Here's a short list of the scripts I've made so far:
 - TicTacToe
+- Capitalize
+- Reverse String
+- Factorial
+- Anonymize
+- 
