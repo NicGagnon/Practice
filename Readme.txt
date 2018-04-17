@@ -4,4 +4,3 @@ Here's a short list of the scripts I've made so far:
 - Reverse String
 - Factorial
 - Anonymize
-- 
